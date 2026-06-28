@@ -1,0 +1,3 @@
+name = "SliderCrankGeometry"
+uuid = "e1e7c491-b663-4f99-9eec-1cfab755363a"
+repo = "https://github.com/CNThermSci/SliderCrankGeometry.jl.git"
