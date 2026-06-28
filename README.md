@@ -18,6 +18,6 @@ Federal University of Technology, Paraná
 
 ## License
 
-This project is [licensed](https://github.com/CNThermSci/CNThermSci/blob/master/LICENSE)
+This project is [licensed](https://github.com/CNThermSci/CNThermSci/blob/main/README.md)
 under the MIT license.
 
