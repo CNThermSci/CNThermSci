@@ -1,0 +1,6 @@
+name = "CNThermSci"
+uuid = "b09fce01-7ee8-4c29-994d-861f9da62320"
+repo = "https://github.com/CNThermSci/CNThermSci.git"
+description = "CNThermSci registry"
+
+[packages]
