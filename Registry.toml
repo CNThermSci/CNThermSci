@@ -4,4 +4,5 @@ repo = "https://github.com/CNThermSci/CNThermSci.git"
 description = "CNThermSci registry"
 
 [packages]
+3a5f4bc5-d558-4c14-a173-42c5953d898e = { name = "BasicIdealGas", path = "B/BasicIdealGas" }
 e1e7c491-b663-4f99-9eec-1cfab755363a = { name = "SliderCrankGeometry", path = "S/SliderCrankGeometry" }
